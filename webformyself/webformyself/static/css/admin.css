@@ -1,0 +1,9 @@
+#header, .button.default {
+    background: #546e7a;
+}
+.module h2, .module caption, .inline-group h2 {
+    background: #78909c;
+}
+div.breadcrumbs, .button {
+    background: #90a4ae;
+}
